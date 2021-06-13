@@ -1,4 +1,4 @@
-# Chat App
+# Currency converter
 
 This is a currency conversion web app. You can use it to see how much one currency is valued against another currency.
 I built this app to learn more about fetching data from an API and displaying formatted data on the page.
