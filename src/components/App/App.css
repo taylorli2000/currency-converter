@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+  font-size: calc(10px + 2vmin);
+  background-color: #2e3440;
+  color: #eceff4;
+}
+
+h1 {
+  margin: 0;
+  margin-bottom: 1.5vh;
+}
+
+input {
+  padding: 2.5vmin 1.5vmin;
+  border-radius: 5px;
+  border: 0;
+  background-color: #434c5e;
+  color: #eceff4;
+  font-size: calc(10px + 2vmin);
+}
+
+select {
+  margin-left: 2.5vmin;
+  background-color: #434c5e;
+  border-radius: 5px;
+  border: 0;
+  color: #eceff4;
+  padding: 2vmin 1vmin;
+}
+
+#equals {
+  font-weight: bold;
+  font-size: calc(25px + 4vmin);
+}
